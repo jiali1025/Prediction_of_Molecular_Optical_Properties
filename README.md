@@ -14,6 +14,13 @@ Link:https://pan.baidu.com/s/1iWVFqAKTf98woIRWysyUbw  Password:q04b
 
 ## Environment
 
+- python  3.6
+- numpy  1.19.0
+- pandas  1.0.5
+- deepchem   2.2.1.dev54
+- scikit-learn  0.21.0
+- rdkit  2020.09.1b.69
+
 ## Pretrained Models
 
 ## User Interface
