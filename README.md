@@ -38,6 +38,8 @@ Link:https://pan.baidu.com/s/1m8JyMSIze8E8UHqqUMcrGA  Password:j1b9
 
 ## User Interface
 
+http://106.12.10.73:5008/
+
 ![UI](img/UI.png)
 
 ![UI](img/DB.jpeg)
