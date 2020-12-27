@@ -23,6 +23,17 @@ Link:https://pan.baidu.com/s/1iWVFqAKTf98woIRWysyUbw  Password:q04b
 
 ## Usage
 
+- descriptors.py    Get descriptors features.
+- crossvalidation_index.py    Get ten-fold cross-validation index.
+- crossvalidation_data.py    Get ten-fold cross-validation data.
+- train_models_ori.py    Train different models based on single-modal data.
+
 ## Pretrained Models
+
+We provide pre-training models based on all the data.
+
+Download from:
+
+Link:https://pan.baidu.com/s/1m8JyMSIze8E8UHqqUMcrGA  Password:j1b9
 
 ## User Interface
