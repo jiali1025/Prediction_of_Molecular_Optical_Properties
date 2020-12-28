@@ -38,8 +38,19 @@ Link:https://pan.baidu.com/s/1m8JyMSIze8E8UHqqUMcrGA  Password:j1b9
 
 ## User Interface
 
+We built a user interface for the project. The user can test the molecular optical properties through this interface. The model used here is the pre-trained model.
+
+You can visit the following link：
+
 http://106.12.10.73:5008/
 
-![UI](img/UI.png)
+<img src="img/UI.png" alt="UI" style="zoom:25%;" />
 
-![UI](img/DB.jpeg)
+Note that, we also connect the interface to the database. The test samples uploaded by the user are stored in the database, including the user's IP. The database is for scientific research only. The molecular structure is used to further synthesize the molecular and retraining models to achieve better prediction performance. IP is used to analyze the distribution of interested users.
+
+<img src="img/DB.jpeg" alt="UI" style="zoom:45%;" />
+
+
+
+
+
