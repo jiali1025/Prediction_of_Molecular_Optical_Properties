@@ -52,7 +52,9 @@ Note that, we also connect the interface to the database. The test samples uploa
 
 ## Contact
 
-Jiali Li	e0276496@u.nus.edu
+Jiali Li [e0276496@u.nus.edu](mailto:e0276496@u.nus.edu)
 
-Xiaoli Liu neuxiaoliliu@163.com
+Xiaoli Liu [neuxiaoliliu@163.com](mailto:neuxiaoliliu@163.com)
+
+Shidang Xu [xushidang@u.nus.edu](mailto:xushidang@u.nus.edu)
 
