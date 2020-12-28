@@ -50,7 +50,9 @@ Note that, we also connect the interface to the database. The test samples uploa
 
 <img src="img/DB.jpeg" alt="UI" style="zoom:45%;" />
 
+## Contact
 
+Jiali Li	e0276496@u.nus.edu
 
-
+Xiaoli Liu neuxiaoliliu@163.com
 
