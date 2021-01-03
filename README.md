@@ -23,10 +23,21 @@ Link:https://pan.baidu.com/s/1iWVFqAKTf98woIRWysyUbw  Password:q04b
 
 ## Usage
 
-- descriptors.py    Get descriptors features.
-- crossvalidation_index.py    Get ten-fold cross-validation index.
-- crossvalidation_data.py    Get ten-fold cross-validation data.
-- train_models_ori.py    Train different models based on single-modal data.
+- descriptors.py    
+
+  Get descriptors features.
+
+- crossvalidation_index.py    
+
+  Get ten-fold cross-validation index.
+
+- crossvalidation_data.py    
+
+  Get ten-fold cross-validation data.
+
+- train_models_ori.py    
+
+  Train different models based on single-modal data.
 
 ## Pretrained Models
 
