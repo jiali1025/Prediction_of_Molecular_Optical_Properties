@@ -39,6 +39,10 @@ Link:https://pan.baidu.com/s/1iWVFqAKTf98woIRWysyUbw  Password:q04b
 
   Train different models based on single-modal data.
 
+- train_models_mul.py    
+
+  Train different models based on multi-modal data.
+
 ## Pretrained Models
 
 We provide pre-training models based on all the data.
