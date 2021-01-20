@@ -65,7 +65,9 @@ Link:https://pan.baidu.com/s/1iWVFqAKTf98woIRWysyUbw  Password:q04b
 
 ## Pretrained Models
 
-We provide pre-training models based on all the data.
+We provide pre-training models based on the whole data, which can help you predict your new data. 
+
+We also use the models in our user interface. 
 
 Download from:
 
