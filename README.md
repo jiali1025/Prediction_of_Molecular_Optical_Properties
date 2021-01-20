@@ -44,6 +44,18 @@ Link:https://pan.baidu.com/s/1iWVFqAKTf98woIRWysyUbw  Password:q04b
   - train_models_mul.py    
 
     Train different models based on multi-modal data.
+    
+  - calculate_measures.py
+
+    Calculate AUC and F1-score.
+
+  - ensemble.py
+
+    Calculate the ensemble method prediction results.
+
+  - calculate_ensemble_measures.py 
+
+    Calculate measures for ensemble method, including accuracy, AUC, and F1-score.
 
 - Train models through the whole data.
   - data_process_all.py
