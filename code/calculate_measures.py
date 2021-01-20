@@ -41,8 +41,6 @@ def auc_f1_cv ( result_path , method , type , nfold ):
 
 if __name__ == '__main__':
 
-    dataLocation = '../dataset/'
-
     resultSaveLocations = [ '../results/ori_result/' , '../results/mul_result/' ]
     nfold = 10
 
