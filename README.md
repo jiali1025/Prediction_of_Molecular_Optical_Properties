@@ -23,25 +23,33 @@ Link:https://pan.baidu.com/s/1iWVFqAKTf98woIRWysyUbw  Password:q04b
 
 ## Usage
 
-- descriptors.py    
+- Train models through ten-fold cross-validation.
 
-  Get descriptors features.
+  - descriptors.py    
 
-- crossvalidation_index.py    
+    Get descriptors features.
 
-  Get ten-fold cross-validation index.
+  - crossvalidation_index.py    
 
-- crossvalidation_data.py    
+    Get ten-fold cross-validation index.
 
-  Get ten-fold cross-validation data.
+  - crossvalidation_data.py    
 
-- train_models_ori.py    
+    Get ten-fold cross-validation data.
 
-  Train different models based on single-modal data.
+  - train_models_ori.py    
 
-- train_models_mul.py    
+    Train different models based on single-modal data.
 
-  Train different models based on multi-modal data.
+  - train_models_mul.py    
+
+    Train different models based on multi-modal data.
+
+- Train models through the whole data.
+  - data_process_all.py
+  - train_models_ori_all.py
+  - train_models_mul_all.py
+  - predict.py
 
 ## Pretrained Models
 
