@@ -77,15 +77,48 @@ Link:https://pan.baidu.com/s/1m8JyMSIze8E8UHqqUMcrGA  Password:j1b9
 
 We built a user interface for the project. The user can test the molecular optical properties through this interface. The models used here is the pre-trained models.
 
-You can visit the following link：
+You can visit the following link into main page：
 
-http://123.56.152.117:5009/
+https://aiapp.gaha.xyz:7443/nus/html/#/works
 
-<img src="img/UI.png" alt="UI" style="zoom:25%;" />
+<img src="img/3.png" alt="UI" style="zoom:50%;" />
 
-Note that, we also connect the interface to the database. The test samples uploaded by the user are stored in the database, including the user's IP. The database is for scientific research only. The molecular structure is used to further synthesize the molecular and retraining models to achieve better prediction performance. IP is used to analyze the distribution of interested users.
+### Prediction
 
-<img src="img/DB.jpeg" alt="UI" style="zoom:45%;" />
+- Under "Smiles:", enter the molecule Smiles to Predict and click the "Predict" button to get the properties results.
+
+<img src="img/4.png" alt="UI" style="zoom:50%;" />
+
+- If you type an Error as Smiles, click "Predict" and you will see "Error algorithm service response Error [This is not a molecular!] ", prompt input error, please retype.
+
+  <img src="img/11.png" alt="UI" style="zoom:50%;" />
+
+- In the "Predition Results" section below, the predicted values for individual optical properties of the molecule are shown on the left and the molecular structure diagram is shown on the right.
+
+<img src="img/5.png" alt="UI" style="zoom:50%;" />
+
+###  Query
+
+- Click on "History" to go to the history page.
+
+  <img src="img/6.png" alt="UI" style="zoom:50%;" />
+
+- On the history page, the test samples uploaded by the visitor are stored in a database (which is used for scientific research only), including the visitor's IP.
+
+<img src="img/7.png" alt="UI" style="zoom:50%;" />
+
+- The query is to search records by date. Click "Start Date", and a pop-up window will appear. You can select the start date and time of the search, and the time can be accurate to the specific hour, minute or second. Click "OK" to save. Again, click "End Date" to select the end date and time of the search.
+
+
+<img src="img/8.png" alt="UI" style="zoom:50%;" />
+
+- You can set whether to query for duplicates. "All" means contain duplicate items. "DISTINCT" means that there are no duplicates. Default is ALL. Click "Search" to Search.
+
+  <img src="img/9.png" alt="UI" style="zoom:50%;" />
+
+- If you are interested in a particular molecular diagram, you want to view its optical properties. Click the "Return" button to return to the prediction page and query the optical properties of the molecule.
+
+  <img src="img/10.png" alt="UI" style="zoom:50%;" />
 
 ## Contact
 
