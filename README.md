@@ -10,7 +10,8 @@ Dataset is composed of molecules with aggregation-induced emission (AIE) or aggr
 
 Download from:
 
-Link:https://pan.baidu.com/s/1iWVFqAKTf98woIRWysyUbw  Password:q04b
+Baidu drive: Link:https://pan.baidu.com/s/1iWVFqAKTf98woIRWysyUbw  Password:q04b
+Google drive: https://drive.google.com/drive/folders/1pGOrmlgBuhh_LzuHcxRpuJxeacmfKj_I?usp=sharing
 
 ## Environment
 
