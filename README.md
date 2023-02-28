@@ -2,7 +2,7 @@
 # Prediction of Molecular Optical Properties
 ## Paper
 
-Submmited.
+Machine-Learning-Assisted Accurate Prediction of Molecular Optical Properties upon Aggregation
 
 ## Dataset
 
